@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a,b,c;
+    cin>>a>>b>>c;
+    
+    cout<<"1)Dead:"<<a<<"\n2)Injured:"<<b<<"\n3)Safe:"<<c<<"\nPlease help the people who are suffering!!!";
+    return 0;
+}
