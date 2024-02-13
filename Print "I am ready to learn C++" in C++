@@ -1,0 +1,6 @@
+#include <iostream>
+using namespace std;
+int main(){
+    cout<<"I am ready to learn C++";
+    return 0;
+}
