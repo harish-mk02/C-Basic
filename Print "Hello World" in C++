@@ -1,0 +1,16 @@
+#include <iostream> //.h fatal error
+
+using namespace std;  
+
+int main()  //()--entry point   //written type--int //main fnction
+
+{
+    
+    std::cout<< "Hello World" ;       //character output--cout    // <<insertion operator 
+    
+    return 0; //can't use string
+    
+    std::cout<< "hello";     //useless piece of code
+    
+}       //program completed
+
