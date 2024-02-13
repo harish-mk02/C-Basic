@@ -1,0 +1,15 @@
+#include <iostream>
+#include <iomanip> //manipulation the ip/op
+using namespace std;
+int main(){
+    
+    //variables---storage containers
+    float a; 
+
+    cin>>a;  //input float
+  
+    cout<<fixed<<setprecision(6)<<a; //set the precise for print the number of decimal and print  
+    //remove fixed it will print whole number
+    
+    return 0;
+}
