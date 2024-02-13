@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int main(){
+    
+    //variables---storage containers
+    int a;   
+    cin>>a;  //input
+    cout<<a; //print
+    return 0;
+}
+
+
